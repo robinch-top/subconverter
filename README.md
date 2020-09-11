@@ -1,3 +1,4 @@
+# fork tindy2013/subconverter
 # subconverter
 
 Utility to convert between various proxy subscription formats.
